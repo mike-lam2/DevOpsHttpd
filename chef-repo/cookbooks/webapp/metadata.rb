@@ -1,4 +1,4 @@
-name             'infrastructure'
+name             'webapp'
 maintainer       ''
 maintainer_email ''
 license          ''
